@@ -1,0 +1,153 @@
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 1
+Enter the task: Html
+Task added.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 1
+Enter the task: linux
+Task added.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 1
+Enter the task: AWS
+Task added.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 1
+Enter the task: basketball
+Task added.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 2
+1. python practice
+2. html css practice
+3. linux (completed)
+4. Html
+5. linux
+6. AWS
+7. basketball
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 3
+1. python practice
+2. html css practice
+3. linux (completed)
+4. Html
+5. linux
+6. AWS
+7. basketball
+Enter the task number to mark as completed: 4
+Task marked as completed.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 4
+1. python practice
+2. html css practice
+3. linux (completed)
+4. Html (completed)
+5. linux
+6. AWS
+7. basketball
+Enter the task number to delete: 1
+Task deleted.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 4
+1. html css practice
+2. linux (completed)
+3. Html (completed)
+4. linux
+5. AWS
+6. basketball
+Enter the task number to delete: 2
+Task deleted.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 4
+1. html css practice
+2. Html (completed)
+3. linux
+4. AWS
+5. basketball
+Enter the task number to delete: 1
+Task deleted.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 4
+1. Html (completed)
+2. linux
+3. AWS
+4. basketball
+Enter the task number to delete: 4
+Task deleted.
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 2
+1. Html (completed)
+2. linux
+3. AWS
+
+--- To-Do List Menu ---
+1. Add a task
+2. View tasks
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+Choose an option: 5
+Goodbye!
